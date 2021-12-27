@@ -10,7 +10,7 @@ body {
 }
 
 #form-student {
-    width: 370px;
+    width: 350px;
     height: auto;
     margin: auto;
     box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.8);
@@ -23,7 +23,7 @@ body {
 }
 
 #form-student label {
-    margin-left: 40px;
+    margin-left: 30px;
     width: 90px;
     float: left;
 }
@@ -43,7 +43,7 @@ body {
     color: red;
     font-style: italic;
     font-size: 14px;
-    margin: 3px 0 0 130px;
+    margin: 3px 0 0 120px;
     text-align: left;
 }
 
